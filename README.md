@@ -1,4 +1,4 @@
-## Last Updated: Sun, 29 Dec 2024 06:06:01 +0000
+## Last Updated: Sun, 29 Dec 2024 08:14:16 +0000
 ### Libraries
 | Library |
 | --- |
@@ -44,22 +44,22 @@
 | php8.0-zlib.so | php8.1-zlib.so | php8.2-zlib.so | php8.3-zlib.so | php8.4-zlib.so | 
 
 ### Runtimes
-| 8.1 | 8.2 | 8.3 |
-| --- | --- | --- |
-| php8.1-cgi-node.js | php8.2-cgi-node.js | php8.3-cgi-node.js | 
-| php8.1-cgi-shell.js | php8.2-cgi-shell.js | php8.3-cgi-shell.js | 
-| php8.1-cgi-web.js | php8.2-cgi-web.js | php8.3-cgi-web.js | 
-| php8.1-cgi-webview.js | php8.2-cgi-webview.js | php8.3-cgi-webview.js | 
-| php8.1-cgi-worker.js | php8.2-cgi-worker.js | php8.3-cgi-worker.js | 
-| php8.1-config.js | php8.2-config.js | php8.3-config.js | 
-| php8.1-node.js | php8.2-node.js | php8.3-node.js | 
-| php8.1-shell.js | php8.2-shell.js | php8.3-shell.js | 
-| php8.1-web.js | php8.2-web.js | php8.3-web.js | 
-| php8.1-webview.js | php8.2-webview.js | php8.3-webview.js | 
-| php8.1-worker.js | php8.2-worker.js | php8.3-worker.js | 
+| 8.1 | 8.2 | 8.3 | 8.4 |
+| --- | --- | --- | --- |
+| php8.1-cgi-node.js | php8.2-cgi-node.js | php8.3-cgi-node.js | php8.4-cgi-node.js | 
+| php8.1-cgi-shell.js | php8.2-cgi-shell.js | php8.3-cgi-shell.js | php8.4-cgi-shell.js | 
+| php8.1-cgi-web.js | php8.2-cgi-web.js | php8.3-cgi-web.js | php8.4-cgi-web.js | 
+| php8.1-cgi-webview.js | php8.2-cgi-webview.js | php8.3-cgi-webview.js | php8.4-cgi-webview.js | 
+| php8.1-cgi-worker.js | php8.2-cgi-worker.js | php8.3-cgi-worker.js | php8.4-cgi-worker.js | 
+| php8.1-config.js | php8.2-config.js | php8.3-config.js | php8.4-web.js | 
+| php8.1-node.js | php8.2-node.js | php8.3-node.js | php8.4-worker.js | 
+| php8.1-shell.js | php8.2-shell.js | php8.3-shell.js |  | 
+| php8.1-web.js | php8.2-web.js | php8.3-web.js |  | 
+| php8.1-webview.js | php8.2-webview.js | php8.3-webview.js |  | 
+| php8.1-worker.js | php8.2-worker.js | php8.3-worker.js |  | 
 
 ### Binaries
-| 8.1 | 8.2 | 8.3 |
-| --- | --- | --- |
-| php8.1-cgi.wasm | php8.2-cgi.wasm | php8.3-cgi.wasm | 
-| php8.1.wasm | php8.2.wasm | php8.3.wasm | 
+| 8.1 | 8.2 | 8.3 | 8.4 |
+| --- | --- | --- | --- |
+| php8.1-cgi.wasm | php8.2-cgi.wasm | php8.3-cgi.wasm | php8.4-cgi.wasm | 
+| php8.1.wasm | php8.2.wasm | php8.3.wasm | php8.4.wasm | 

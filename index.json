@@ -1,5 +1,5 @@
 {
-    "last_updated": "2024-12-29T06:06:01+00:00",
+    "last_updated": "2024-12-29T08:14:16+00:00",
     "libs": [
         "icudt72l.dat",
         "libcrypto.so",
@@ -149,6 +149,15 @@
             "php8.3-web.js",
             "php8.3-webview.js",
             "php8.3-worker.js"
+        ],
+        "8.4": [
+            "php8.4-cgi-node.js",
+            "php8.4-cgi-shell.js",
+            "php8.4-cgi-web.js",
+            "php8.4-cgi-webview.js",
+            "php8.4-cgi-worker.js",
+            "php8.4-web.js",
+            "php8.4-worker.js"
         ]
     },
     "binaries": {
@@ -163,6 +172,10 @@
         "8.3": [
             "php8.3-cgi.wasm",
             "php8.3.wasm"
+        ],
+        "8.4": [
+            "php8.4-cgi.wasm",
+            "php8.4.wasm"
         ]
     }
 }
